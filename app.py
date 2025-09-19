@@ -8,7 +8,7 @@ st.set_page_config(page_title="Team Work Status", layout="wide")
 
 # --- Team Members ---
 TEAM_MEMBERS = [
-    "Pond","Bank"
+    "Pond","Bank","Pang"
 ]
 STATUS_OPTIONS = ["WFO", "WFH"]
 DATA_FILE = "wfh_wfo_status.csv"
